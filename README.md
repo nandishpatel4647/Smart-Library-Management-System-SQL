@@ -113,10 +113,5 @@ It is suitable for:
 📘 Mini-projects  
 🏢 Foundation for DBMS Systems  
 
----
 
-💡 If you want a **PDF copy**, **ER Diagram**, or **ZIP Submission Package**, just ask!
-
----
-
-### 👨‍💻 Created by: _[Your Name]_
+### 👨‍💻 Created by: Nandish Patel
